@@ -17,7 +17,7 @@ Input <u> to go <up>
 Input <d> to go <down>`);
 
 /*To make all elements combine together
-Using ... to make the split array joined together. 
+Using Array Method prototype.join to make the split array joined together. 
 The use \n to make the new line after meet the row's condition*/
 class Field {
   constructor(fieldArray) {
